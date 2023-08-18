@@ -74,7 +74,7 @@ Metodología SCRUM
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Contacto
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="45"> Contacto
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexismartinez98/)
 [<img align="left" alt="Correo Electrónico" src="https://img.shields.io/badge/-Correo%20Electrónico-red?style=flat-square&logo=gmail&logoColor=white" />](mailto:as.alexismartinez@gmail.com)
