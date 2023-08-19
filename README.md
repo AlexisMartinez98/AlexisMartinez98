@@ -57,14 +57,14 @@ Metodología SCRUM
 </details>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas
-<details><summary><h3>🔥Streak Stats</h3></summary>
+<details><summary><h3>🔥Análisis de logros</h3></summary>
 
 ----	
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisMartinez98&theme=radical" alt="7oSkaaa" /></p>
 
 </details>
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 Estadísticas del perfil</h3></summary>
 
 ----	
 
