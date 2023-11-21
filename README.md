@@ -39,7 +39,7 @@ Metodología SCRUM
 <details><summary>+</summary>
 <div>
   <p align="center">
-	<a href="https://github.com/AlexisMartinez98/CRM-RealStae">
+	<a href="https://github.com/AlexisMartinez98/CRM-RealState">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisMartinez98&repo=CRM-RealState&theme=radical" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/AlexisMartinez98/Project-3D">
