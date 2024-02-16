@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-¡Hola! Soy Alexis Martinez, un apasionado programador Full Stack especializado en tecnologías PERN (PostgreSQL, Express, React, Node.js). Mi objetivo es crear soluciones digitales innovadoras y eficientes que satisfagan las necesidades de los usuarios. Tengo experiencia tanto en el desarrollo del lado del servidor como en la creación de interfaces atractivas y amigables.
+¡Hola! Soy Alexis Martinez, un apasionado programador Full Stack especializado en tecnologías como PostgreSQL, Express, React, Node.js entre otros. Mi objetivo es crear soluciones digitales innovadoras y eficientes que satisfagan las necesidades de los usuarios. Tengo experiencia tanto en el desarrollo del lado del servidor como en la creación de interfaces atractivas y amigables.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Habilidades 
